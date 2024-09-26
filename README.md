@@ -3,6 +3,7 @@ Site de Moda Fashion com detalhes em Calça Jeans feminina
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+    <meta name="google-site-verification" content="Hak7GXTi1XuGHbQZ96me4HWPVst2bBHQoRqzpyj3Vkw" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guia Completo para Escolher o Cropped Ideal</title>
